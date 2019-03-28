@@ -1,4 +1,6 @@
-trajes: 500
-gafas: 50
-tablones: 250000
-bragas: 10
+segunda version de cobros
+
+trajes: 1500
+gafas: 502
+tablones: 1250000
+bragas: 1012

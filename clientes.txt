@@ -1,5 +1,9 @@
+segunda version de clientes
+
 Maruja: 2000
 Pacucha: 2000
 Finucha: 4000
 Rigoberto: 150000
 Perfecto: 200
+Rogelio: 300
+Club de ganchillo: 22000
