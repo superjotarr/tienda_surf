@@ -1,0 +1,5 @@
+Maruja: 2000
+Pacucha: 2000
+Finucha: 4000
+Rigoberto: 150000
+Perfecto: 200

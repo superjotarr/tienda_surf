@@ -1,0 +1,6 @@
+trajes: 5
+gafas: 20
+tablones: 7
+bragas: 250
+aletas: 12
+gorras: 77777

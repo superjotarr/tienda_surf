@@ -1,0 +1,4 @@
+trajes: 500
+gafas: 50
+tablones: 250000
+bragas: 10
